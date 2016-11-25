@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+
+<font color="#ffff1a">
+
+	<head>
+		<title> Go to Sweden</title>
+	</head>
+	<body>
+	
+	<h3><h3 style="font-family:verdana;"><html style="background-color:#6699ff";>
+	
+		
+		
+<h1><h1 style="font-family:verdana;"><p> Why should you go to Sweden?</p><h1>
+
+	<h3><h3 style="font-family:verdana;">
+
+<li> It is clean</li>
+<li> It is modern and futuristic</li>
+<li> IKEA is from there.</li>
+<li> It is just across the Oresmund bridge from Denmark</li>
+<li> You can sleep in an igloo</li>
+<li> People speak Swedish</li>
+<li> The currency of Sweden is the krona</li>
+
+
+<img src=http://graphics.eiu.com/assets/images/maps_country_280x280/SE.gif>
+
+
+<li> About 10 million people live in Sweden.
+<li> It is in the EU but not the Eurozone
+<li> There are 95,7000 lakes in Sweden.
+
+
+<p> The biggest cities in Sweden include Stockholm (930,000),
+Gotenburg (490,000) and Malmo (320,000), Uppsala (140,000), Norrkoping (130,000) and Vasteras (135,000)
+
+
+
+
+
+
+	</body>
+</html>
